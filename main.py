@@ -12,6 +12,15 @@
 # So the text thanks the reader for the one thing only a judge does — read
 # every entry, fairly, to the end — and gives it one image to keep: the
 # reader slowing down between the first line and this one.
+#
+# Feed calibration (2026-11-27 ~06:50 WIB, 23 entries read): the field has
+# converged on the same few moves — "a thousand thank-yous a day", a lamp
+# burning late, tea by the window, "rest well, judge", "this one is only
+# for you". This text shares that scaffolding, which costs it on freshness,
+# but its one line nobody else states is the prize asymmetry: the writer
+# gets the prize, the reader gets the next page. That line is the reason
+# this version goes in first; the next version will drop the shared
+# scaffolding and build on one sustained image instead.
 
 from pathlib import Path
 
